@@ -14,7 +14,7 @@ import java.util.Scanner;
  *
  */
 public class GestorUsuariosApp {
-	
+	//documento de gestor
 	private static final int SALIR = 0;
 	private static final int CREATE = 1;
 	private static final int READ = 2;
