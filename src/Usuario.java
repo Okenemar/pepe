@@ -14,7 +14,7 @@ public class Usuario {
 	private String contrasenia;
 	private boolean activo;
 	
-	
+	//documento usuario
 	
 	public Usuario() {
 	}
